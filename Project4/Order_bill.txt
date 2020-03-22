@@ -1,0 +1,36 @@
+
+-------- Chitanta pentru comanda numarul: 10--------
+
+
+Data comenzii : Fri May 17 00:00:00 EEST 2019
+
+Masa cu numarul : 8
+
+------------------------------------------------------------------
+
+Produsele comandate sunt: 
+
+10. suc : 5 lei
+
+12. meniu crispy : 27 lei
+
+                     Meniul contine :
+
+                     -> 1. cartofi prajiti
+
+                     -> 3. crispy pui
+
+                     -> 7. salata varza
+
+                     -> 8. sos
+
+                     -> 10. suc
+
+2. snitel pui : 8 lei
+
+1. cartofi prajiti : 5 lei
+
+------------------------------------------------------------------
+
+Pret total :45
+
